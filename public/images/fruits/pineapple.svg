@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#eef5dc"/><stop offset="1" stop-color="#d9e8c4"/></linearGradient><linearGradient id="fruit" x2="1" y2="1"><stop stop-color="#ffd75c"/><stop offset="1" stop-color="#e49a27"/></linearGradient></defs>
+<rect width="960" height="640" rx="40" fill="url(#bg)"/><circle cx="752" cy="141" r="72" fill="#fff" opacity=".4"/><ellipse cx="480" cy="522" rx="143" ry="22" fill="#5f783e" opacity=".17"/>
+<g fill="#438b58" stroke="#367449" stroke-width="7"><path d="M478 220 390 75l72 50 17-75 39 92 72-82-25 130 85-59-80 130Z"/><path d="m460 224-15-154-33 81-63-64 42 125Z"/></g>
+<path d="M480 193c-130 0-181 99-174 215 7 113 72 168 174 168s167-55 174-168c7-116-44-215-174-215Z" fill="url(#fruit)" stroke="#ca8725" stroke-width="10"/>
+<g stroke="#b97b20" stroke-width="7" opacity=".75"><path d="m350 266 259 259M322 342l197 197M350 464l175-244M421 562l205-288M304 410l324 0M324 320l314 164M326 486l300-173"/></g>
+<text x="480" y="608" font-family="Arial,sans-serif" font-size="26" letter-spacing="7" text-anchor="middle" fill="#557244">GOLDEN &amp; TANGY</text></svg>

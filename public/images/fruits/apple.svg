@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff3dc"/><stop offset="1" stop-color="#f8d9bd"/></linearGradient><linearGradient id="fruit" x2="1" y2="1"><stop stop-color="#ff7562"/><stop offset="1" stop-color="#bd263c"/></linearGradient></defs>
+<rect width="960" height="640" rx="40" fill="url(#bg)"/><circle cx="755" cy="135" r="76" fill="#fff" opacity=".35"/><ellipse cx="478" cy="526" rx="190" ry="24" fill="#9b4d3c" opacity=".18"/>
+<path d="M486 207c-11-53 20-83 59-95" fill="none" stroke="#70452e" stroke-width="22" stroke-linecap="round"/><path d="M512 132c63-63 124-37 137-5-47 42-99 45-137 5Z" fill="#4e9a54"/>
+<path d="M480 257c-87-83-203-24-207 103-6 152 91 218 204 166 113 52 210-14 204-166-4-127-120-186-207-103Z" fill="url(#fruit)"/><path d="M341 340c8-46 35-74 76-82" fill="none" stroke="#ffd3b3" stroke-width="20" stroke-linecap="round" opacity=".75"/><path d="M480 263c-13 10-20 20-20 34 0 18 17 28 20 28s20-10 20-28c0-14-7-24-20-34Z" fill="#a51f37" opacity=".55"/>
+<text x="480" y="594" font-family="Arial,sans-serif" font-size="28" letter-spacing="7" text-anchor="middle" fill="#824234">CRISP &amp; JUICY</text></svg>

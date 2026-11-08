@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff1d7"/><stop offset="1" stop-color="#f7d3ad"/></linearGradient><linearGradient id="fruit" x2="1" y2="1"><stop stop-color="#ffc84e"/><stop offset=".55" stop-color="#ff8a39"/><stop offset="1" stop-color="#e95342"/></linearGradient></defs>
+<rect width="960" height="640" rx="40" fill="url(#bg)"/><circle cx="747" cy="139" r="75" fill="#fff" opacity=".37"/><ellipse cx="482" cy="518" rx="174" ry="22" fill="#9d5437" opacity=".18"/>
+<path d="M486 201c-18-57 8-91 47-112" fill="none" stroke="#68472d" stroke-width="19" stroke-linecap="round"/><path d="M514 121c54-53 112-39 135-4-37 35-93 47-135 4Z" fill="#57975b"/>
+<path d="M482 239c122-83 235-13 224 124-11 123-93 211-203 202-117-10-209-110-198-230 10-109 84-153 177-96Z" fill="url(#fruit)"/><path d="M360 325c20-49 57-71 101-69" fill="none" stroke="#fff2be" stroke-width="18" stroke-linecap="round" opacity=".78"/><path d="M374 441c67 58 152 71 224 22" fill="none" stroke="#e74c43" stroke-width="12" opacity=".45"/>
+<text x="480" y="594" font-family="Arial,sans-serif" font-size="28" letter-spacing="7" text-anchor="middle" fill="#965344">TROPICAL &amp; RIPE</text></svg>

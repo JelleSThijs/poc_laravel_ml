@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff7d6"/><stop offset="1" stop-color="#f5e5b0"/></linearGradient><linearGradient id="fruit" x2="0" y2="1"><stop stop-color="#ffe45b"/><stop offset="1" stop-color="#efa91f"/></linearGradient></defs>
+<rect width="960" height="640" rx="40" fill="url(#bg)"/><circle cx="202" cy="146" r="72" fill="#fff" opacity=".38"/><ellipse cx="488" cy="510" rx="238" ry="23" fill="#9b7430" opacity=".18"/>
+<path d="M265 216c85 158 226 231 393 232 79 0 142-22 187-64-38 129-151 196-286 180-174-20-302-136-352-303l58-45Z" fill="url(#fruit)" stroke="#d38d22" stroke-width="12" stroke-linejoin="round"/>
+<path d="M265 216c-18-20-37-27-54-17l-19 18 57 47 35-20-19-28ZM845 384l38-26 17 18-26 44-49-13 20-23Z" fill="#67503a"/>
+<path d="M323 255c96 142 211 201 348 193" fill="none" stroke="#fff4a0" stroke-width="20" stroke-linecap="round" opacity=".85"/>
+<path d="M450 470c-41-63-46-125-12-181M548 488c-27-65-22-123 18-174M649 474c-14-48-6-93 25-133" fill="none" stroke="#ce8a1d" stroke-width="8" opacity=".55"/>
+<text x="480" y="594" font-family="Arial,sans-serif" font-size="28" letter-spacing="7" text-anchor="middle" fill="#8b6b25">SWEET &amp; SOFT</text></svg>

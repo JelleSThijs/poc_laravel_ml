@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9eaff"/><stop offset="1" stop-color="#d6dcf7"/></linearGradient><radialGradient id="berry" cx=".32" cy=".24"><stop stop-color="#7889e9"/><stop offset="1" stop-color="#313b87"/></radialGradient></defs>
+<rect width="960" height="640" rx="40" fill="url(#bg)"/><circle cx="760" cy="143" r="70" fill="#fff" opacity=".38"/><ellipse cx="480" cy="510" rx="225" ry="22" fill="#343a78" opacity=".15"/>
+<g fill="url(#berry)" stroke="#333c88" stroke-width="5"><circle cx="359" cy="330" r="91"/><circle cx="495" cy="285" r="103"/><circle cx="610" cy="359" r="93"/><circle cx="442" cy="420" r="96"/><circle cx="570" cy="455" r="79"/></g>
+<g fill="#d4d9ff" opacity=".75"><circle cx="331" cy="302" r="14"/><circle cx="466" cy="253" r="16"/><circle cx="583" cy="326" r="14"/><circle cx="413" cy="390" r="15"/><circle cx="550" cy="431" r="12"/></g>
+<g fill="#273478"><path d="m359 304 14 16-14 16-15-16zM495 252l16 17-16 17-16-17zM610 328l15 16-15 16-15-16zM442 390l15 16-15 16-15-16zM570 427l13 14-13 14-13-14z"/></g>
+<text x="480" y="594" font-family="Arial,sans-serif" font-size="28" letter-spacing="7" text-anchor="middle" fill="#454b88">SMALL &amp; BOLD</text></svg>
